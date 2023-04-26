@@ -56,6 +56,11 @@ RegisterNumber:  212222110019
 ### TIMING DIAGRAM
 ![Screenshot 2023-04-26 141551](https://user-images.githubusercontent.com/121163440/234523892-7781f8de-966a-43b5-a2ed-f88d95089bd7.png)
 
+TRUTH TABLE:
+![Screenshot 2023-04-26 143019](https://user-images.githubusercontent.com/121163440/234525863-260e048c-2bea-4fe8-a376-de0c96eda033.png)
+
+
+![Screenshot 2023-04-26 143028](https://user-images.githubusercontent.com/121163440/234525904-db8d41fc-93e3-46a4-93ce-b13711065b7f.png)
 
 
 ### Result:
